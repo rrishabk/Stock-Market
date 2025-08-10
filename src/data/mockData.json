@@ -1,0 +1,67 @@
+{
+  "companies": [
+    { "ticker": "AAPL", "name": "Apple Inc.", "exchange": "NASDAQ" },
+    { "ticker": "MSFT", "name": "Microsoft Corp.", "exchange": "NASDAQ" },
+    { "ticker": "GOOGL", "name": "Alphabet Inc.", "exchange": "NASDAQ" },
+    { "ticker": "AMZN", "name": "Amazon.com, Inc.", "exchange": "NASDAQ" },
+    { "ticker": "META", "name": "Meta Platforms, Inc.", "exchange": "NASDAQ" },
+    { "ticker": "TSLA", "name": "Tesla, Inc.", "exchange": "NASDAQ" },
+    { "ticker": "NVDA", "name": "NVIDIA Corp.", "exchange": "NASDAQ" },
+    { "ticker": "JPM", "name": "JPMorgan Chase & Co.", "exchange": "NYSE" },
+    { "ticker": "V", "name": "Visa Inc.", "exchange": "NYSE" },
+    { "ticker": "NFLX", "name": "Netflix, Inc.", "exchange": "NASDAQ" }
+  ],
+  "prices": {
+    "AAPL": [
+      { "date": "2025-07-29", "open": 222.1, "high": 225.0, "low": 220.8, "close": 224.5, "volume": 65234123 },
+      { "date": "2025-07-30", "open": 224.6, "high": 226.1, "low": 223.4, "close": 225.9, "volume": 61234123 },
+      { "date": "2025-07-31", "open": 225.8, "high": 227.0, "low": 224.2, "close": 226.6, "volume": 58900111 },
+      { "date": "2025-08-01", "open": 226.7, "high": 228.9, "low": 225.9, "close": 228.2, "volume": 57022000 },
+      { "date": "2025-08-04", "open": 228.1, "high": 229.3, "low": 227.2, "close": 228.7, "volume": 50111000 },
+      { "date": "2025-08-05", "open": 228.7, "high": 230.0, "low": 228.0, "close": 229.8, "volume": 52234000 },
+      { "date": "2025-08-06", "open": 229.9, "high": 231.4, "low": 229.0, "close": 230.7, "volume": 53400012 },
+      { "date": "2025-08-07", "open": 230.6, "high": 232.2, "low": 230.1, "close": 231.9, "volume": 49876543 }
+    ],
+    "MSFT": [
+      { "date": "2025-07-29", "open": 410.2, "high": 414.0, "low": 408.4, "close": 412.3, "volume": 32234123 },
+      { "date": "2025-07-30", "open": 412.0, "high": 415.2, "low": 410.1, "close": 413.9, "volume": 30111222 },
+      { "date": "2025-07-31", "open": 413.8, "high": 416.5, "low": 412.8, "close": 415.7, "volume": 29876543 },
+      { "date": "2025-08-01", "open": 415.6, "high": 417.8, "low": 414.5, "close": 416.9, "volume": 28765432 },
+      { "date": "2025-08-04", "open": 416.8, "high": 418.0, "low": 415.9, "close": 417.5, "volume": 27543210 },
+      { "date": "2025-08-05", "open": 417.6, "high": 420.0, "low": 417.0, "close": 419.2, "volume": 26321098 }
+    ],
+    "GOOGL": [
+      { "date": "2025-07-29", "open": 160.2, "high": 162.0, "low": 159.2, "close": 160.9, "volume": 18234123 },
+      { "date": "2025-07-30", "open": 160.8, "high": 163.5, "low": 160.5, "close": 162.7, "volume": 17111222 },
+      { "date": "2025-07-31", "open": 162.6, "high": 164.2, "low": 161.7, "close": 163.8, "volume": 16876543 }
+    ],
+    "AMZN": [
+      { "date": "2025-07-29", "open": 180.3, "high": 183.0, "low": 179.4, "close": 181.7, "volume": 25234123 },
+      { "date": "2025-07-30", "open": 181.8, "high": 184.1, "low": 181.1, "close": 183.6, "volume": 24111222 }
+    ],
+    "META": [
+      { "date": "2025-07-29", "open": 520.2, "high": 526.0, "low": 518.1, "close": 523.9, "volume": 14234123 },
+      { "date": "2025-07-30", "open": 524.0, "high": 528.2, "low": 521.0, "close": 526.4, "volume": 13111222 }
+    ],
+    "TSLA": [
+      { "date": "2025-07-29", "open": 255.2, "high": 260.0, "low": 252.4, "close": 258.3, "volume": 42234123 },
+      { "date": "2025-07-30", "open": 258.0, "high": 262.2, "low": 257.1, "close": 261.1, "volume": 40111222 }
+    ],
+    "NVDA": [
+      { "date": "2025-07-29", "open": 128.2, "high": 130.0, "low": 127.2, "close": 129.1, "volume": 50234123 },
+      { "date": "2025-07-30", "open": 129.0, "high": 131.2, "low": 128.1, "close": 130.8, "volume": 48111222 }
+    ],
+    "JPM": [
+      { "date": "2025-07-29", "open": 210.2, "high": 213.0, "low": 209.1, "close": 211.9, "volume": 16234123 },
+      { "date": "2025-07-30", "open": 212.0, "high": 214.2, "low": 210.0, "close": 213.5, "volume": 15111222 }
+    ],
+    "V": [
+      { "date": "2025-07-29", "open": 285.2, "high": 288.0, "low": 284.0, "close": 286.4, "volume": 12234123 },
+      { "date": "2025-07-30", "open": 286.5, "high": 289.0, "low": 285.7, "close": 288.2, "volume": 11111222 }
+    ],
+    "NFLX": [
+      { "date": "2025-07-29", "open": 650.2, "high": 658.0, "low": 648.0, "close": 654.7, "volume": 8234123 },
+      { "date": "2025-07-30", "open": 654.0, "high": 660.2, "low": 652.5, "close": 658.9, "volume": 7111222 }
+    ]
+  }
+}
